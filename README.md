@@ -1,12 +1,7 @@
-### Hi there 👋
-
-<!----
-**Fabuali/Fabuali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there, I'm Fatimah Abuali 👋
 
 - 🔭 I’m currently working on **Digital Healthcare Transformation**
-- 🌱 I’m currently learning ** R Data Science **
+- 🌱 I’m currently learning **R Data Science**
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,4 +9,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<----
